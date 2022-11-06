@@ -1,0 +1,171 @@
+body{
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+background-image:url(images/body.png);
+font-family:arial Calibri;
+}
+
+#contenu{
+width:900px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+background-color:white;
+font-family:arial;
+padding:10px;
+background-image:url(images/background3.jpg);
+background-repeat:no-repeat;
+font-size:14px;
+border:1px solid black;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+
+}
+
+
+#contenu1{
+width:743px;
+
+text-align:center;
+background-color:white;
+font-family:arial;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:10px;
+padding-top:3px;
+background-image:url(images/background3.jpg);
+background-repeat:no-repeat;
+font-size:14px;
+border:1px solid black;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+float:left;
+}
+
+
+
+#entete{
+width:900px;
+height:200px;
+border:1px solid black;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding-left:10px;
+padding-right:10px;
+margin-bottom:3px;
+}
+
+#pied{
+background-image:url(images/background2.jpg);
+background-repeat:no-repeat;
+font-size:14px;
+border:1px solid black;
+width:900px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+font-family:arial;
+padding:10px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+
+#titreform{
+border:1px solid grey;
+width:200px;
+padding-left:10px;
+padding-right:10px;
+}
+
+.interligne{
+line-height:20px;
+}
+
+#form{
+border:1px solid red;
+margin-left:auto;
+margin-right:auto;
+width:400px;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:20px;
+padding-right:20px;
+text-align:center;
+}
+
+.tailleimage{
+width:150px;
+height:120px;
+}
+
+.menugauche{
+float:left;
+width:150px;
+margin-left:40px;
+margin-right:2px;
+text-align:center;
+background-color:white;
+font-family:arial;
+padding-left:1px;
+padding-right:1px;
+background-image:url(images/body.png);
+background-repeat:no-repeat;
+font-size:14px;
+border:1px solid black;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+
+.menu a{
+text-decoration:none;
+color:white;
+
+}
+.menu a:link{
+text-decoration:none;
+color:white;
+}
+.menu a:visited{
+text-decoration:none;
+color:white;
+}
+
+.menu a:hover{
+text-decoration:none;
+color:red;
+}
+
+.menu a:active{
+text-decoration:none;
+color:blue;
+}
+
+.menu a:focus{
+text-decoration:none;
+color:blue;
+}
+
+.lienmenu{
+border:solid 1px gray; 
+color:white;
+background-color:gray; 
+text-align:left;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+
+#milie{
+color:blue;
+margin-left:138px;
+
+
+}
+
+.menutop{
+border:solid 1px gray; 
+color:white;
+background-color:gray; 
+text-align:left;
+}
